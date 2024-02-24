@@ -11,6 +11,7 @@ body{
     background-color: #efefef;
    
 }
+
 .card{
 
     width: 90%;
@@ -19,6 +20,7 @@ body{
     border-radius: 8px 8px 8px 8px;
     background-size: cover;
     background-repeat: no-repeat;
+    cursor: pointer;
 }
 .container{
     margin-top: 40px;
@@ -36,6 +38,7 @@ body{
     background: url("card1.png");
     background-size: cover;
     background-repeat: no-repeat;
+    cursor: pointer;
 }
 .scrollcontainer{
     width: 100%;
